@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+Reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beigi-payam/)
 
 <!--
 **Payameno/Payameno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
