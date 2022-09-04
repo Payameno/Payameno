@@ -1,4 +1,4 @@
-<h1 align="center">Hi, So excited to have you here! My name is Payam,</h1>
+<h1 align="center">Hi, My name is Payam, So excited to have you here!</h1>
 <h3 align="center">A passionate developer from Vancouver, British Columbia</h3>
 
 <h3 align="left">Connect with me:</h3>
