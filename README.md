@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=payameno&show_icons=true&locale=en&layout=compact" alt="payameno" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payameno&show_icons=true&locale=en" alt="payameno" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=payameno&show_icons=true&locale=en" alt="payameno" /></p>
