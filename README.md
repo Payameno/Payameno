@@ -1,8 +1,6 @@
 # 💫 “Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”<br>— Albert Einstein
 
 <h1 align="center">Hi, My name is Payam. So excited to have you here!</h1>
-
- About Me:
 <h3 align="center">I'm a passionate developer from Vancouver, British Columbia</h3>
 
 ## 🌐 Socials:
