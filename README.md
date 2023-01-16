@@ -1,4 +1,0 @@
-<h1 align="center">Full-stack Web & Blockchain Developer</h1>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/payam_beigi_) [![LinkedIn](https://www.linkedin.com/in/payambeigi/]([https://linkedin.com/in/beigi-payam]([https://www.linkedin.com/in/payambeigi/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)))) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@beigi.payam) 
